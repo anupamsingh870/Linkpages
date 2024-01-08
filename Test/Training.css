@@ -1,0 +1,13 @@
+body{
+    background-color:linen;
+}
+
+.template{
+    height: 450px;
+}
+
+.btn{
+    border: 2px solid rgb(37, 21, 21);
+    align-self: center;
+   
+}
